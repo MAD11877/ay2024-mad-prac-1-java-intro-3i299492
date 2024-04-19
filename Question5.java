@@ -31,7 +31,7 @@ public class Question5
           highestnum = list1.get(i);
         }
       }
-    System.out.println(highestnum);
+    System.out.print(highestnum);
     /**
      * Prompt the user for number. This input indicates the number of integers the user will be entering next. 
      * Print out the mode (highest occurrence) from the set of integers. 
