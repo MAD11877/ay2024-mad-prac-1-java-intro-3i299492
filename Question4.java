@@ -21,7 +21,7 @@ public class Question4
     for(int i = num; i >= 0; i --)
       {
         int j = 0;
-        while(j < i+1)
+        while(j < i)
           {
             System.out.print("*");
             j++;
