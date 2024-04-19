@@ -8,7 +8,7 @@ public class Question2
     double height = a.nextDouble();
     double weight = a.nextDouble();
     double bmi = weight / (height * height);
-    System.out.println(bmi);
+    System.out.print(bmi);
     /**
      * Prompts user for height and weight, calculate and print out the BMI of the user
      * 
